@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/rrogovski/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/> -->
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rodrigo Rogovski</h1>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrogovski&color=yellow" alt="Profile views" /> </p> -->
+
+<img src="https://i.giphy.com/media/S3Pe5NZqgmE8Tl3NI5/giphy-downsized-large.gif" width="200"/>
 
 <!--
 **rrogovski/rrogovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
