@@ -3,14 +3,54 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-rogovski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogovski/)](https://www.linkedin.com/in/rogovski/)
-[![Twitter Badge](https://img.shields.io/badge/-@RRogovski-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RRogovski)](https://twitter.com/RRogovski)
-[![Instagram Badge](https://img.shields.io/badge/-@rfrogovski-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rfrogovski/)](https://instagram.com/rfrogovski)
-[![Gmail Badge](https://img.shields.io/badge/-rrogovski-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rfrogovski@gmail.com)](mailto:rfrogovski@gmail.com)
+<a href="https://www.linkedin.com/in/rogovski/" target="_blank">
+<img src="https://img.shields.io/badge/-rogovski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogovski/" alt="Linkedin"/>
+</a>
+  
+<a href="https://twitter.com/RRogovski/" target="_blank">
+<img src="https://img.shields.io/badge/-@RRogovski-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RRogovski" alt="Twitter"/>
+</a>
+  
+<a href="https://instagram.com/rfrogovski/" target="_blank">
+<img src="https://img.shields.io/badge/-@rfrogovski-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rfrogovski/" alt="Instagram"/>
+</a>
+  
+<a href="mailto:rfrogovski@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-rrogovski-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rfrogovski@gmail.com" alt="Gmail"/>
+</a>
+  
+  
 ![](https://komarev.com/ghpvc/?username=rrogovski&style=flat&color=828bed)
 
 </div>
 
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rrogovski&show_icons=true&theme=vision-friendly-dark" alt="rrogovski's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrogovski&layout=compact&theme=vision-friendly-dark" alt="rrogovski's most languages"/>
+</p>
+
+<br><br>
 
 <!--
 **rrogovski/rrogovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
