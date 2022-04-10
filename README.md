@@ -55,6 +55,7 @@
 ![MicrosoftSQL](https://img.shields.io/badge/-MicrosoftSQL-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex)&nbsp;
 
 
 <hr>
