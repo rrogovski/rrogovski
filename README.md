@@ -24,7 +24,14 @@
 
 </div>
 
-<br><br>
+<hr>
+
+- 🔭 I’m currently working on stack Java/Spring Boot and AngularJS/Angular
+- 🌱 I’m currently learning Python, VueJS and a little bit of OCI and Docker/K8s
+- 💬 Ask me about HTML, CSS, Latex, Regex and Tolkien's mythologies
+- 😄 Pronouns: He/Him - Ele/Dele
+
+<hr>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -43,10 +50,14 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn&logoColor=007ACC)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MicrosoftSQL](https://img.shields.io/badge/-MicrosoftSQL-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
-<br><br>
+
+<hr>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -55,15 +66,13 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrogovski&layout=compact&theme=vision-friendly-dark" alt="rrogovski's most languages"/>
 </p>
 
-<br><br>
-
 <!--
 **rrogovski/rrogovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python, VueJS, a little bit of OCI and Docker/K8s
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
