@@ -1,5 +1,5 @@
 <!-- <img align="right" height="160em" src="https://i.giphy.com/media/S3Pe5NZqgmE8Tl3NI5/giphy-downsized-large.gif"/> -->
-<img align="right" height="160em" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+<img align="right" height="130em" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rodrigo Rogovski</h1>
 
 <div align="center">
@@ -66,8 +66,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rrogovski&show_icons=true&theme=vision-friendly-dark" alt="rrogovski's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrogovski&layout=compact&theme=vision-friendly-dark" alt="rrogovski's most languages"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=rrogovski&show_icons=true&theme=vision-friendly-dark" alt="rrogovski's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrogovski&layout=compact&theme=vision-friendly-dark" alt="rrogovski's most languages"/>
 </p>
 
 <!--
