@@ -1,5 +1,5 @@
-<!-- <img align="right" height="160em" src="https://i.giphy.com/media/S3Pe5NZqgmE8Tl3NI5/giphy-downsized-large.gif"/> -->
-<img align="right" height="130em" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+<img align="right" height="160em" src="https://i.giphy.com/media/S3Pe5NZqgmE8Tl3NI5/giphy-downsized-large.gif"/>
+<!-- <img align="right" height="130em" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/> -->
 <!-- <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rodrigo Rogovski</h1> -->
 <h1 align="left">Hi <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2411_HZWARHWk0TImR0UBwvuHRUXPorcBwWs1.gif" width="32" />, I'm Rodrigo Rogovski</h1>
 
@@ -28,7 +28,7 @@
 
 <hr>
 
-## TL;DR <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3084_vam5PaUBOZubnfnTPYC2Zfj4JaiicECV.gif" width="32" />
+## <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3084_vam5PaUBOZubnfnTPYC2Zfj4JaiicECV.gif" width="32" /> TL;DR
 - 🔭 I’m currently working on stack Java/Spring Boot and AngularJS/Angular
 - 🌱 I’m currently learning Python, VueJS and a little bit of OCI and Docker/K8s
 - 💬 Ask me about HTML, CSS, Latex, Regex and Tolkien's mythologies
