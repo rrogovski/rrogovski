@@ -34,6 +34,13 @@
 - 💬 Ask me about HTML, CSS, Latex, Regex and Tolkien's mythologies
 - 😄 Pronouns: He/Him - Ele/Dele
 
+<details>
+  <summary>📫 How to reach me</summary>
+  <li><a href="https://github.com/rrogovski" target="_blank" rel="noopener noreferrer">GitHub @rrogovski</a></li>
+  <li><a href="https://www.instagram.com/rfrogovski/" target="_blank" rel="noopener noreferrer">Intagram @rfrogovski</a>
+  <li><a href="https://www.linkedin.com/in/rogovski/" target="_blank" rel="noopener noreferrer">Linkedin @rogovski</a>
+</details>
+
 <hr>
 
 ## 🛠 &nbsp;Tech Stack
@@ -67,8 +74,10 @@
 
 ## <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3104_JHkrGQkijIv75krokr6AkrF8wlTa4oXL.gif" width="32" /> &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <img width="350em" src="https://github-readme-stats.vercel.app/api?username=rrogovski&show_icons=true&theme=vision-friendly-dark" alt="rrogovski's stats"/>
+</p>
+<p align="center">
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrogovski&layout=compact&theme=vision-friendly-dark" alt="rrogovski's most languages"/>
 </p>
 
